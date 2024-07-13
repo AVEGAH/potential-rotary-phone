@@ -1,4 +1,4 @@
-# scripts.sh
+#!/bin/bash
 
 # Define the list of commands
 declare -A scripts
